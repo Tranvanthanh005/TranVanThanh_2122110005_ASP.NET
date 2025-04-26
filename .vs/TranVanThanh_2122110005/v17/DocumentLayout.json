@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|TranVanThanh_2122110005.csproj|c:\\users\\tranv\\downloads\\asp\\new folder\\tranvanthanh_2122110005\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|TranVanThanh_2122110005.csproj|solutionrelative:controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|TranVanThanh_2122110005.csproj|c:\\users\\tranv\\downloads\\asp\\new folder\\tranvanthanh_2122110005\\migrations\\20250426052433_createnewstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|TranVanThanh_2122110005.csproj|solutionrelative:migrations\\20250426052433_createnewstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|TranVanThanh_2122110005.csproj|c:\\users\\tranv\\downloads\\asp\\new folder\\tranvanthanh_2122110005\\model\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|TranVanThanh_2122110005.csproj|solutionrelative:model\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|TranVanThanh_2122110005.csproj|c:\\users\\tranv\\downloads\\asp\\new folder\\tranvanthanh_2122110005\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|TranVanThanh_2122110005.csproj|solutionrelative:model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|TranVanThanh_2122110005.csproj|c:\\users\\tranv\\downloads\\asp\\new folder\\tranvanthanh_2122110005\\model\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|TranVanThanh_2122110005.csproj|solutionrelative:model\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|TranVanThanh_2122110005.csproj|c:\\users\\tranv\\downloads\\asp\\new folder\\tranvanthanh_2122110005\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|TranVanThanh_2122110005.csproj|solutionrelative:model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|TranVanThanh_2122110005.csproj|c:\\users\\tranv\\downloads\\asp\\new folder\\tranvanthanh_2122110005\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|TranVanThanh_2122110005.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|TranVanThanh_2122110005.csproj|c:\\users\\tranv\\downloads\\asp\\new folder\\tranvanthanh_2122110005\\model\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|TranVanThanh_2122110005.csproj|solutionrelative:model\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|TranVanThanh_2122110005.csproj|c:\\users\\tranv\\downloads\\asp\\new folder\\tranvanthanh_2122110005\\model\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|TranVanThanh_2122110005.csproj|solutionrelative:model\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|TranVanThanh_2122110005.csproj|c:\\users\\tranv\\downloads\\asp\\new folder\\tranvanthanh_2122110005\\controllers\\authendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|TranVanThanh_2122110005.csproj|solutionrelative:controllers\\authendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|TranVanThanh_2122110005.csproj|c:\\users\\tranv\\downloads\\asp\\new folder\\tranvanthanh_2122110005\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|TranVanThanh_2122110005.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|TranVanThanh_2122110005.csproj|c:\\users\\tranv\\downloads\\asp\\new folder\\tranvanthanh_2122110005\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|TranVanThanh_2122110005.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|TranVanThanh_2122110005.csproj|c:\\users\\tranv\\downloads\\asp\\new folder\\tranvanthanh_2122110005\\migrations\\20250425121109_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|TranVanThanh_2122110005.csproj|solutionrelative:migrations\\20250425121109_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|TranVanThanh_2122110005.csproj|c:\\users\\tranv\\downloads\\asp\\new folder\\tranvanthanh_2122110005\\model\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|TranVanThanh_2122110005.csproj|solutionrelative:model\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|TranVanThanh_2122110005.csproj|c:\\users\\tranv\\downloads\\asp\\new folder\\tranvanthanh_2122110005\\auth\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|TranVanThanh_2122110005.csproj|solutionrelative:auth\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|TranVanThanh_2122110005.csproj|c:\\users\\tranv\\downloads\\asp\\new folder\\tranvanthanh_2122110005\\auth\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|TranVanThanh_2122110005.csproj|solutionrelative:auth\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|TranVanThanh_2122110005.csproj|c:\\users\\tranv\\downloads\\asp\\new folder\\tranvanthanh_2122110005\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|TranVanThanh_2122110005.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|TranVanThanh_2122110005.csproj|c:\\users\\tranv\\downloads\\asp\\new folder\\tranvanthanh_2122110005\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|TranVanThanh_2122110005.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|TranVanThanh_2122110005.csproj|c:\\users\\tranv\\downloads\\asp\\new folder\\tranvanthanh_2122110005\\tranvanthanh_2122110005.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{040060B3-B4A7-4306-9EE7-E8472C5B3F4F}|TranVanThanh_2122110005.csproj|solutionrelative:tranvanthanh_2122110005.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 189,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "News.cs",
+              "DocumentMoniker": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\Model\\News.cs",
+              "RelativeDocumentMoniker": "Model\\News.cs",
+              "ToolTip": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\Model\\News.cs",
+              "RelativeToolTip": "Model\\News.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T05:18:11.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "Model\\Product.cs",
+              "ToolTip": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\Model\\Product.cs",
+              "RelativeToolTip": "Model\\Product.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAowGAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:41:02.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\Model\\Post.cs",
+              "RelativeDocumentMoniker": "Model\\Post.cs",
+              "ToolTip": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\Model\\Post.cs",
+              "RelativeToolTip": "Model\\Post.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAwEAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:05:06.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\Model\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Model\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\Model\\OrderItem.cs",
+              "RelativeToolTip": "Model\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:53:55.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\Model\\Brand.cs",
+              "RelativeDocumentMoniker": "Model\\Brand.cs",
+              "ToolTip": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\Model\\Brand.cs",
+              "RelativeToolTip": "Model\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:41:02.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\Model\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Model\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\Model\\LoginRequest.cs",
+              "RelativeToolTip": "Model\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:41:02.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250426052433_CreateNewsTable.cs",
+              "DocumentMoniker": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\Migrations\\20250426052433_CreateNewsTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250426052433_CreateNewsTable.cs",
+              "ToolTip": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\Migrations\\20250426052433_CreateNewsTable.cs",
+              "RelativeToolTip": "Migrations\\20250426052433_CreateNewsTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T05:24:34.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NewsController.cs",
+              "ToolTip": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "Controllers\\NewsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T05:26:42.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:41:02.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "Model\\Order.cs",
+              "ToolTip": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\Model\\Order.cs",
+              "RelativeToolTip": "Model\\Order.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA/wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:53:58.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\Controllers\\AuthEndpoints.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthEndpoints.cs",
+              "ToolTip": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\Controllers\\AuthEndpoints.cs",
+              "RelativeToolTip": "Controllers\\AuthEndpoints.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:41:02.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Model\\User.cs",
+              "ToolTip": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\Model\\User.cs",
+              "RelativeToolTip": "Model\\User.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAcwAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:41:02.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250425121109_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\Migrations\\20250425121109_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250425121109_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\Migrations\\20250425121109_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250425121109_InitialCreate.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAAAL0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T05:20:58.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:51:08.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\Auth\\TokenService.cs",
+              "RelativeDocumentMoniker": "Auth\\TokenService.cs",
+              "ToolTip": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\Auth\\TokenService.cs",
+              "RelativeToolTip": "Auth\\TokenService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:41:02.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\Auth\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "Auth\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\Auth\\JwtSettings.cs",
+              "RelativeToolTip": "Auth\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:41:02.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAwHsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:41:02.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TranVanThanh_2122110005.http",
+              "DocumentMoniker": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\TranVanThanh_2122110005.http",
+              "RelativeDocumentMoniker": "TranVanThanh_2122110005.http",
+              "ToolTip": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\TranVanThanh_2122110005.http",
+              "RelativeToolTip": "TranVanThanh_2122110005.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-18T05:48:51.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-18T05:41:02.721Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
