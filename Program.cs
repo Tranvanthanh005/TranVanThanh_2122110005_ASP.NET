@@ -39,6 +39,7 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     });
 
 builder.Services.AddAuthorization();
+<<<<<<< HEAD
 // Thêm cấu hình CORS
 builder.Services.AddCors(options =>
 {
@@ -49,6 +50,8 @@ builder.Services.AddCors(options =>
               .AllowAnyHeader();  // Cho phép tất cả các headers
     });
 });
+=======
+>>>>>>> 849f36551e6ac5169e4cf8c8e04f3c694f087db2
 
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
@@ -95,8 +98,11 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+<<<<<<< HEAD
 // Sử dụng CORS middleware trước khi Authentication và Authorization
 app.UseCors("AllowAll");
+=======
+>>>>>>> 849f36551e6ac5169e4cf8c8e04f3c694f087db2
 app.UseAuthentication(); // BẮT BUỘC trước Authorization
 app.UseAuthorization();
 
@@ -118,7 +124,12 @@ app.MapOrderItemEndpoints();
 app.MapUserEndpoints();
 
 app.MapProductEndpoints();
+<<<<<<< HEAD
 app.MapPostEndpoints();
 
 
 app.Run();
+=======
+
+app.Run();
+>>>>>>> 849f36551e6ac5169e4cf8c8e04f3c694f087db2

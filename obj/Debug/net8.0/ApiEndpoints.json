@@ -325,6 +325,7 @@
     "EndpointName": "DeleteCategory"
   },
   {
+<<<<<<< HEAD
     "ContainingType": "TranVanThanh_2122110005.Controllers.NewsController",
     "Method": "GetNews",
     "RelativePath": "api/News",
@@ -434,6 +435,8 @@
     "ReturnTypes": []
   },
   {
+=======
+>>>>>>> 849f36551e6ac5169e4cf8c8e04f3c694f087db2
     "ContainingType": "TranVanThanh_2122110005.Model.OrderEndpoints\u002B\u003C\u003Ec",
     "Method": "\u003CMapOrderEndpoints\u003Eb__0_0",
     "RelativePath": "api/Order/",
@@ -734,6 +737,7 @@
     "EndpointName": "DeleteOrderItem"
   },
   {
+<<<<<<< HEAD
     "ContainingType": "TranVanThanh_2122110005.Model.PostEndpoints\u002B\u003C\u003Ec",
     "Method": "\u003CMapPostEndpoints\u003Eb__0_0",
     "RelativePath": "api/Post/",
@@ -884,6 +888,8 @@
     "EndpointName": "DeletePost"
   },
   {
+=======
+>>>>>>> 849f36551e6ac5169e4cf8c8e04f3c694f087db2
     "ContainingType": "TranVanThanh_2122110005.Model.ProductEndpoints\u002B\u003C\u003Ec",
     "Method": "\u003CMapProductEndpoints\u003Eb__0_0",
     "RelativePath": "api/Product/",

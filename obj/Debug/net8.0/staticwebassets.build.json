@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "Q7xNN3oQDxLwivQ6RNbuXybuD81JudxruhSuMX7AmKU=",
+=======
+  "Hash": "lYlhZ9EZyDkjUqQ1TyJlaoiIEbwfV/hfIVgDIEeWLR4=",
+>>>>>>> 849f36551e6ac5169e4cf8c8e04f3c694f087db2
   "Source": "TranVanThanh_2122110005",
   "BasePath": "_content/TranVanThanh_2122110005",
   "Mode": "Default",
@@ -51,10 +55,17 @@
       "OriginalItemSpec": "C:\\Users\\tranv\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\QuickGrid.razor.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TranVanThanh_2122110005.styles.css",
       "SourceId": "TranVanThanh_2122110005",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+=======
+      "Identity": "C:\\Users\\tranv\\Downloads\\asp\\ASP.NET1\\TranVanThanh_2122110005\\TranVanThanh_2122110005\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TranVanThanh_2122110005.styles.css",
+      "SourceId": "TranVanThanh_2122110005",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\tranv\\Downloads\\asp\\ASP.NET1\\TranVanThanh_2122110005\\TranVanThanh_2122110005\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+>>>>>>> 849f36551e6ac5169e4cf8c8e04f3c694f087db2
       "BasePath": "_content/TranVanThanh_2122110005",
       "RelativePath": "TranVanThanh_2122110005#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -69,7 +80,11 @@
       "Integrity": "yJzMRujk3CbSbBe5hogvoEpcGbz0ThnTl058XcI1svI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TranVanThanh_2122110005.styles.css"
+=======
+      "OriginalItemSpec": "C:\\Users\\tranv\\Downloads\\asp\\ASP.NET1\\TranVanThanh_2122110005\\TranVanThanh_2122110005\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TranVanThanh_2122110005.styles.css"
+>>>>>>> 849f36551e6ac5169e4cf8c8e04f3c694f087db2
     }
   ],
   "Endpoints": [
@@ -149,7 +164,11 @@
     },
     {
       "Route": "TranVanThanh_2122110005.02jfxhbwsz.styles.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TranVanThanh_2122110005.styles.css",
+=======
+      "AssetFile": "C:\\Users\\tranv\\Downloads\\asp\\ASP.NET1\\TranVanThanh_2122110005\\TranVanThanh_2122110005\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TranVanThanh_2122110005.styles.css",
+>>>>>>> 849f36551e6ac5169e4cf8c8e04f3c694f087db2
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -174,7 +193,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Fri, 25 Apr 2025 12:20:37 GMT"
+=======
+          "Value": "Fri, 18 Apr 2025 01:23:34 GMT"
+>>>>>>> 849f36551e6ac5169e4cf8c8e04f3c694f087db2
         },
         {
           "Name": "Link",
@@ -198,7 +221,11 @@
     },
     {
       "Route": "TranVanThanh_2122110005.styles.css",
+<<<<<<< HEAD
       "AssetFile": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TranVanThanh_2122110005.styles.css",
+=======
+      "AssetFile": "C:\\Users\\tranv\\Downloads\\asp\\ASP.NET1\\TranVanThanh_2122110005\\TranVanThanh_2122110005\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TranVanThanh_2122110005.styles.css",
+>>>>>>> 849f36551e6ac5169e4cf8c8e04f3c694f087db2
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -223,7 +250,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Fri, 25 Apr 2025 12:20:37 GMT"
+=======
+          "Value": "Fri, 18 Apr 2025 01:23:34 GMT"
+>>>>>>> 849f36551e6ac5169e4cf8c8e04f3c694f087db2
         },
         {
           "Name": "Link",

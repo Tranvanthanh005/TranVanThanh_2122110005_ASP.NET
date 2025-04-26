@@ -294,3 +294,17 @@ D:\ASP.NET\HuynhDuyKhanh_2122110004\HuynhDuyKhanh_2122110004\bin\Debug\net8.0\ru
 D:\ASP.NET\HuynhDuyKhanh_2122110004\HuynhDuyKhanh_2122110004\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 D:\ASP.NET\HuynhDuyKhanh_2122110004\HuynhDuyKhanh_2122110004\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\ASP.NET\HuynhDuyKhanh_2122110004\HuynhDuyKhanh_2122110004\obj\Debug\net8.0\HuynhDuyKhanh_2122110004.csproj.CopyComplete
+<<<<<<< HEAD
+=======
+C:\Users\tranv\Downloads\asp\ASP.NET1\HuynhDuyKhanh_2122110004\HuynhDuyKhanh_2122110004\obj\Debug\net8.0\HuynhDuyKhanh_2122110004.csproj.AssemblyReference.cache
+C:\Users\tranv\Downloads\asp\ASP.NET1\HuynhDuyKhanh_2122110004\HuynhDuyKhanh_2122110004\obj\Debug\net8.0\HuynhDuyKhanh_2122110004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tranv\Downloads\asp\ASP.NET1\HuynhDuyKhanh_2122110004\HuynhDuyKhanh_2122110004\obj\Debug\net8.0\HuynhDuyKhanh_2122110004.AssemblyInfoInputs.cache
+C:\Users\tranv\Downloads\asp\ASP.NET1\HuynhDuyKhanh_2122110004\HuynhDuyKhanh_2122110004\obj\Debug\net8.0\HuynhDuyKhanh_2122110004.AssemblyInfo.cs
+C:\Users\tranv\Downloads\asp\ASP.NET1\HuynhDuyKhanh_2122110004\HuynhDuyKhanh_2122110004\obj\Debug\net8.0\HuynhDuyKhanh_2122110004.csproj.CoreCompileInputs.cache
+C:\Users\tranv\Downloads\asp\ASP.NET1\HuynhDuyKhanh_2122110004\HuynhDuyKhanh_2122110004\obj\Debug\net8.0\HuynhDuyKhanh_2122110004.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tranv\Downloads\asp\ASP.NET1\HuynhDuyKhanh_2122110004\HuynhDuyKhanh_2122110004\obj\Debug\net8.0\HuynhDuyKhanh_2122110004.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tranv\Downloads\asp\ASP.NET1\HuynhDuyKhanh_2122110004\HuynhDuyKhanh_2122110004\obj\Debug\net8.0\HuynhDuyKhanh_2122110004.sourcelink.json
+C:\Users\tranv\Downloads\asp\ASP.NET1\HuynhDuyKhanh_2122110004\HuynhDuyKhanh_2122110004\obj\Debug\net8.0\HuynhDuyKhanh_2122110004.dll
+C:\Users\tranv\Downloads\asp\ASP.NET1\HuynhDuyKhanh_2122110004\HuynhDuyKhanh_2122110004\obj\Debug\net8.0\refint\HuynhDuyKhanh_2122110004.dll
+C:\Users\tranv\Downloads\asp\ASP.NET1\HuynhDuyKhanh_2122110004\HuynhDuyKhanh_2122110004\obj\Debug\net8.0\HuynhDuyKhanh_2122110004.pdb
+>>>>>>> 849f36551e6ac5169e4cf8c8e04f3c694f087db2

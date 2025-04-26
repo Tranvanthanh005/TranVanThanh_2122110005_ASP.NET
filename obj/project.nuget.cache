@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "286G3QIhUkM=",
   "success": true,
   "projectFilePath": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\TranVanThanh_2122110005.csproj",
+=======
+  "dgSpecHash": "8U8QQ8Fy3Ck=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tranv\\Downloads\\asp\\ASP.NET1\\TranVanThanh_2122110005\\TranVanThanh_2122110005\\TranVanThanh_2122110005.csproj",
+>>>>>>> 849f36551e6ac5169e4cf8c8e04f3c694f087db2
   "expectedPackageFiles": [
     "C:\\Users\\tranv\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\tranv\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -17,13 +17,21 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TranVanThanh_2122110005
 build_property.RootNamespace = TranVanThanh_2122110005
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\tranv\Downloads\asp\New folder\TranVanThanh_2122110005\
+=======
+build_property.ProjectDir = C:\Users\tranv\Downloads\asp\ASP.NET1\TranVanThanh_2122110005\TranVanThanh_2122110005\
+>>>>>>> 849f36551e6ac5169e4cf8c8e04f3c694f087db2
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+<<<<<<< HEAD
 build_property.MSBuildProjectDirectory = C:\Users\tranv\Downloads\asp\New folder\TranVanThanh_2122110005
+=======
+build_property.MSBuildProjectDirectory = C:\Users\tranv\Downloads\asp\ASP.NET1\TranVanThanh_2122110005\TranVanThanh_2122110005
+>>>>>>> 849f36551e6ac5169e4cf8c8e04f3c694f087db2
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 

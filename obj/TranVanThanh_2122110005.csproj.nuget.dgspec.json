@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\TranVanThanh_2122110005.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\TranVanThanh_2122110005.csproj",
         "packagesPath": "C:\\Users\\tranv\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\tranv\\Downloads\\asp\\New folder\\TranVanThanh_2122110005\\obj\\",
+=======
+    "C:\\Users\\tranv\\Downloads\\asp\\ASP.NET1\\TranVanThanh_2122110005\\TranVanThanh_2122110005\\TranVanThanh_2122110005.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tranv\\Downloads\\asp\\ASP.NET1\\TranVanThanh_2122110005\\TranVanThanh_2122110005\\TranVanThanh_2122110005.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tranv\\Downloads\\asp\\ASP.NET1\\TranVanThanh_2122110005\\TranVanThanh_2122110005\\TranVanThanh_2122110005.csproj",
+        "projectName": "TranVanThanh_2122110005",
+        "projectPath": "C:\\Users\\tranv\\Downloads\\asp\\ASP.NET1\\TranVanThanh_2122110005\\TranVanThanh_2122110005\\TranVanThanh_2122110005.csproj",
+        "packagesPath": "C:\\Users\\tranv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tranv\\Downloads\\asp\\ASP.NET1\\TranVanThanh_2122110005\\TranVanThanh_2122110005\\obj\\",
+>>>>>>> 849f36551e6ac5169e4cf8c8e04f3c694f087db2
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 @LeThiThuyNgan_2122110016_HostAddress = http://localhost:5008
 
 GET {{LeThiThuyNgan_2122110016_HostAddress}}/weatherforecast/
+=======
+@TranVanThanh_2122110005_HostAddress = http://localhost:5008
+
+GET {{TranVanThanh_2122110005_HostAddress}}/weatherforecast/
+>>>>>>> 849f36551e6ac5169e4cf8c8e04f3c694f087db2
 Accept: application/json
 
 ###

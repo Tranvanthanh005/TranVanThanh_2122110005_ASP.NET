@@ -317,6 +317,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "/api/News": {
       "get": {
         "tags": [
@@ -502,6 +503,8 @@
         }
       }
     },
+=======
+>>>>>>> 849f36551e6ac5169e4cf8c8e04f3c694f087db2
     "/api/Order": {
       "get": {
         "tags": [
@@ -792,6 +795,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "/api/Post": {
       "get": {
         "tags": [
@@ -937,6 +941,8 @@
         }
       }
     },
+=======
+>>>>>>> 849f36551e6ac5169e4cf8c8e04f3c694f087db2
     "/api/Product": {
       "get": {
         "tags": [
@@ -1355,6 +1361,7 @@
         },
         "additionalProperties": false
       },
+<<<<<<< HEAD
       "News": {
         "type": "object",
         "properties": {
@@ -1381,6 +1388,8 @@
         },
         "additionalProperties": false
       },
+=======
+>>>>>>> 849f36551e6ac5169e4cf8c8e04f3c694f087db2
       "Order": {
         "type": "object",
         "properties": {
@@ -1472,6 +1481,7 @@
         },
         "additionalProperties": false
       },
+<<<<<<< HEAD
       "Post": {
         "required": [
           "title"
@@ -1510,6 +1520,8 @@
         },
         "additionalProperties": false
       },
+=======
+>>>>>>> 849f36551e6ac5169e4cf8c8e04f3c694f087db2
       "Product": {
         "type": "object",
         "properties": {
@@ -1619,12 +1631,24 @@
         "properties": {
           "date": {
             "type": "string",
+<<<<<<< HEAD
             "format": "date-time"
+=======
+            "format": "date"
+>>>>>>> 849f36551e6ac5169e4cf8c8e04f3c694f087db2
           },
           "temperatureC": {
             "type": "integer",
             "format": "int32"
           },
+<<<<<<< HEAD
+=======
+          "temperatureF": {
+            "type": "integer",
+            "format": "int32",
+            "readOnly": true
+          },
+>>>>>>> 849f36551e6ac5169e4cf8c8e04f3c694f087db2
           "summary": {
             "type": "string",
             "nullable": true

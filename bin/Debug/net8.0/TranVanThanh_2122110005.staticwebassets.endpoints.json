@@ -29,7 +29,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Fri, 25 Apr 2025 12:20:37 GMT"
+=======
+          "Value": "Fri, 18 Apr 2025 01:23:34 GMT"
+>>>>>>> 849f36551e6ac5169e4cf8c8e04f3c694f087db2
         },
         {
           "Name": "Link",
@@ -78,7 +82,11 @@
         },
         {
           "Name": "Last-Modified",
+<<<<<<< HEAD
           "Value": "Fri, 25 Apr 2025 12:20:37 GMT"
+=======
+          "Value": "Fri, 18 Apr 2025 01:23:34 GMT"
+>>>>>>> 849f36551e6ac5169e4cf8c8e04f3c694f087db2
         },
         {
           "Name": "Link",
